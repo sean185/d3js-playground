@@ -1,0 +1,22 @@
+{
+  "name": "d3js-playground",
+  "version": "1.0.0",
+  "description": "Consolidating a bunch of experiments here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean185/d3js-playground.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sean185/d3js-playground/issues"
+  },
+  "homepage": "https://github.com/sean185/d3js-playground#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

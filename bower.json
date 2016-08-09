@@ -1,0 +1,23 @@
+{
+  "name": "d3js-playground",
+  "main": "index.js",
+  "homepage": "https://github.com/sean185/d3js-playground",
+  "authors": [
+    "Sean Ang <seanang185@gmail.com>"
+  ],
+  "description": "Consolidating a bunch of experiments here.",
+  "license": "Unlicense",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.14.2",
+    "d3": "^4.2.1",
+    "normalize-css": "normalize.css#^4.2.0"
+  }
+}
